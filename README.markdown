@@ -82,6 +82,9 @@ to pick OCaml (Some of these issues are being worked on).
 
 13. Multicore.
 
+14. IDE support. Decent Intellij Idea or Eclipse plugin would accelarate 
+    the adoption.
+
 Optimism
 =========
 
